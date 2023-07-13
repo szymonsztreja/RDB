@@ -1,0 +1,10 @@
+insert into accounts (account_id, customer_id, account_name, password) values (1, 1, 'hdunn0', 'B2ttaaidu8Eu');
+insert into accounts (account_id, customer_id, account_name, password) values (2, 2, 'jworling1', 'NyfxQxm');
+insert into accounts (account_id, customer_id, account_name, password) values (3, 3, 'vcassels2', 'wjDT5qYryU');
+insert into accounts (account_id, customer_id, account_name, password) values (4, 4, 'abergeau3', '1KFcFqT9');
+insert into accounts (account_id, customer_id, account_name, password) values (5, 5, 'cbilfoot4', '4yB6R6h8');
+insert into accounts (account_id, customer_id, account_name, password) values (6, 6, 'rswanborough5', 'e04laF0lCZ');
+insert into accounts (account_id, customer_id, account_name, password) values (7, 7, 'dbartolic6', 'BtrPaxsM1');
+insert into accounts (account_id, customer_id, account_name, password) values (8, 8, 'hantrobus7', 'FqL4l9lZQU2');
+insert into accounts (account_id, customer_id, account_name, password) values (9, 9, 'pjezzard8', 'o7GXo2t');
+insert into accounts (account_id, customer_id, account_name, password) values (10, 10, 'bbaskett9', 'RC4cjlTz');

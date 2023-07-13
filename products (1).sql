@@ -1,0 +1,10 @@
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (1, 'Sie Przelewa Tropik', 'HAYB', 1, 34,60);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (2, 'New Venus', 'Bialetti', 2, 49,60);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (3, 'Kitty 2tz', 'Bialetti', 2, 46,62);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (4, 'AeroPress Go', 'AeroPress', 2, 48,66);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (5, 'AeroPress', 'AeroPress', 2, 49,64);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (6, 'Etiopia Malawo', 'HAYB', 1, 93,32);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (7, 'Honudras El Puente', 'Heresy', 1, 79,24);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (8, 'Elixir Unstable', 'Heresy', 1, 87,43);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (9, 'Polska Parzucha', 'Hard Beans', 1, 72,65);
+insert into products (product_id, product_name, brand_name, category_id, stock, unit_price) values (10, 'Shady BRU', 'LaCava', 1, 76,40);
